@@ -13,4 +13,3 @@ REM icacls MusNotificationUx.exe /remove:d Everyone
 REM icacls MusNotificationUx.exe /grant Everyone:F
 REM icacls MusNotificationUx.exe /setowner "NT SERVICE\TrustedInstaller"
 REM icacls MusNotificationUx.exe /remove:g Everyone
-REM rem
